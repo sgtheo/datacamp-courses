@@ -1,5 +1,5 @@
 # Datacamp
-This repository includes all exercise solutions for courses that I have finished on [datacamp](https://www.datacamp.com/). 
+This repository includes all exercise solutions for courses that I have finished on [Datacamp](https://www.datacamp.com/). 
 
 ## Completed Courses:
 * [Introduction to Object-Oriented Programming in Java](https://app.datacamp.com/learn/courses/introduction-to-object-oriented-programming-in-java).
